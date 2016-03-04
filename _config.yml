@@ -1,0 +1,28 @@
+name: Samipa
+favicon: null
+layout_spectrum: 0.03329108911566436
+typography_spectrum: 0.27407432277686894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9645065271761268
+  lightness: 0.2533085225149989
+  saturation: 0.7448749903123826
+  rhythmicContrast: 0.1358036429155618
+purpose: []
